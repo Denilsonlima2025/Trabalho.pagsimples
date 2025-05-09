@@ -1,0 +1,40 @@
+body{background-color: bisque;}
+h1{
+    color: cadetblue;
+}
+
+.conteiner{
+    text-align: center;
+}
+
+p {
+    font-size: 23px; /*Aumentei a fonte para 23px */
+} 
+
+ul{
+    margin-top: 80px;/* espaçamento para 80px*/ 
+}
+
+img{
+   border-radius: 25px;
+}
+div{
+    margin: 5px;
+    padding:5px;
+    box-sizing: border-box;
+    font-family: 'roboto' , sans-serif;
+}
+
+
+a:hover{
+    background-color: aqua;
+    
+}
+
+
+table{
+    border-collapse: collapse;
+    font-size:larger;
+    width: 200px;
+}
+
