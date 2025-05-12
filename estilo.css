@@ -1,0 +1,42 @@
+body{background-color: bisque;}
+h1{
+    color: cadetblue;
+    background-color: blanchedalmond;
+}
+
+.conteiner{
+    text-align: center;
+}
+
+p {
+    font-size: 23px; /*Aumentei a fonte para 23px */
+} 
+
+ul{
+    margin-top: 75px;/* espaçamento para 75px*/ 
+}
+
+img{
+   border-radius: 25px;
+}
+div{
+    margin: 5px;
+    padding:5px;
+    box-sizing: border-box;
+    font-family: 'roboto' , sans-serif;
+}
+
+
+a:hover{
+    background-color: aqua;
+    
+}
+
+.tabela {
+    width: 100px;
+    margin: 15px;
+    border-collapse: collapse;
+    font-family: monospace;
+    background-color: blanchedalmond;
+
+}
